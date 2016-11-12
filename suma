@@ -1,9 +1,9 @@
-def suma_przyklad(arg1 = 2,arg2 = 2):
+def suma_przyklad():
 	arg1 = int(input("numer 1: "))
 	arg2 = int(input("numer 2: "))
 	return arg1 + arg2
-  
-  suma_przyklad()
+	
+	
   
   
 
